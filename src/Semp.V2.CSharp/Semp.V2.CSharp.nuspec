@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Semp.v2.CSharp</id>
+    <version>1.0.0</version>
+    <title>Solace SEMP V2 Csharp client </title>
+    <authors>Solace</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <description>Solace</description>
+  </metadata>
+</package>
